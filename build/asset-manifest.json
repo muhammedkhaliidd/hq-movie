@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9af7f55f.css",
+    "main.js": "/static/js/main.b170cb7f.js",
+    "static/media/boxicons.svg": "/static/media/boxicons.045b05bf2dc119267a90.svg",
+    "static/media/footer-bg.jpg": "/static/media/footer-bg.67e95f05e76a8cebf7e2.jpg",
+    "static/media/boxicons.eot": "/static/media/boxicons.092b78589f3f53e60030.eot",
+    "static/media/boxicons.woff": "/static/media/boxicons.0f4528cf3c75a4b361c0.woff",
+    "static/media/boxicons.ttf": "/static/media/boxicons.cbd149c55e2396cb52e7.ttf",
+    "static/media/hqmovie.jpg": "/static/media/hqmovie.de86f157150a67d1ec80.jpg",
+    "static/media/default.jpg": "/static/media/default.779873b13e1ec5db6df2.jpg",
+    "static/media/boxicons.woff2": "/static/media/boxicons.8d765747a5588f36ff61.woff2",
+    "static/media/no-image.jpg": "/static/media/no-image.2296aade7e9d4347faa6.jpg",
+    "index.html": "/index.html",
+    "main.9af7f55f.css.map": "/static/css/main.9af7f55f.css.map",
+    "main.b170cb7f.js.map": "/static/js/main.b170cb7f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9af7f55f.css",
+    "static/js/main.b170cb7f.js"
+  ]
+}
